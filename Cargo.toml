@@ -1,0 +1,13 @@
+[package]
+name = "shrs_themes"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+authors = ["Daniel Liu <mr.picklepinosaur@gmail.com>"]
+description = ""
+repository = "https://github.com/MrPicklePinosaur/shrs_themes"
+
+[features]
+
+[dependencies]
+shrs = { git = "https://github.com/MrPicklePinosaur/shrs" }
